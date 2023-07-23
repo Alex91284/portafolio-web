@@ -321,7 +321,7 @@ header {
     width: 30%;
     height: 350px;
     margin: 0% 1%;
-    background-image: url('/images/guantes-box.jpg');
+    background-image: url('./images/guantes-box.jpg');
     background-repeat: no-repeat;
     background-size: 350px 350px;
     background-color: rgb(176, 196, 182);
