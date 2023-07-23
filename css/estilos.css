@@ -357,7 +357,7 @@ header {
     width: 30%;
     height: 350px;
     margin: 0% 1%;
-    background-image: url('/images/Mi\ Logo\ 2.JPG');
+    background-image: url(../images/Mi\ Logo\ 2.JPG);
     background-repeat: no-repeat;
     background-size: 350px 350px;
     background-color: rgb(176, 196, 182);
